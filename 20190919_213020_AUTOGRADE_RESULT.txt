@@ -1,0 +1,8 @@
+Correct!
+Your output below:
+b'Hello World'
+Expected output below:
+b'Hello World'
+Your grade for this assignment: 1.0 out of 1.0
+If you feel there is a grading mistake,
+Please consult the TA during office hours.
